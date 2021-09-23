@@ -27,8 +27,9 @@ DEBUG = True
 
 # ALLOWED_HOSTS = ["localhost"]
 ALLOWED_HOSTS = ["127.0.0.1",
-    "esz-supercars.mybluemix.net"]
-
+    "esz-supercars.mybluemix.net",
+    "localhost:8000",
+    "localhost"]
 
 # Application definition
 
